@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm kentoxd!
 
-<!--
-**kentoxd/kentoxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about creating beautiful and functional web experiences. My favorite stack is front-end development—HTML, CSS, JavaScript, and everything that brings websites to life!
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
+- [Bluewave](https://github.com/kentoxd/Bluewave): My proudest achievement so far! Bluewave is a full-stack website I built from scratch, combining everything I've learned about web design and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Front-End Development: HTML, CSS, JavaScript
+- Building responsive, user-friendly websites
+- Full-stack project experience
+
+## 🌟 Motto
+> "Seize the day"
+
+## 🎮 Hobbies (Outside Coding)
+- Gaming
+- Cooking
+- Cleaning
+
+---
+
+Feel free to explore my repositories or reach out if you want to connect about web development, projects, or any of my hobbies!
